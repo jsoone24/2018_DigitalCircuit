@@ -1,0 +1,31 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Tue May 29 17:24:49 2018
+# Process ID: 1088
+# Current directory: D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5128 D:\OneDrive - 숭실대학교 - Soongsil University\2학년 1학기\디지털회로설계실험\12주차 보고서\Week_12_project2\Week_12_project2.xpr
+# Log file: D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project2/vivado.log
+# Journal file: D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project2\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project2/Week_12_project2.xpr}
+update_compile_order -fileset sources_1
+open_run impl_1
+close [ open {D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project2/Week_12_project2.srcs/sources_1/new/seg_controller.v} w ]
+add_files {{D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project2/Week_12_project2.srcs/sources_1/new/seg_controller.v}}
+close [ open {D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project2/Week_12_project2.srcs/sources_1/new/bcd_dec.v} w ]
+add_files {{D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project2/Week_12_project2.srcs/sources_1/new/bcd_dec.v}}
+close [ open {D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project2/Week_12_project2.srcs/sources_1/new/clk_Ndiv.v} w ]
+add_files {{D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project2/Week_12_project2.srcs/sources_1/new/clk_Ndiv.v}}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+export_ip_user_files -of_objects  [get_files {{D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project/Week_12_project.srcs/sources_1/new/bcd_dec.v}}] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files {{D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project/Week_12_project.srcs/sources_1/new/clk_Ndiv.v}}] -no_script -reset -force -quiet
+export_ip_user_files -of_objects  [get_files {{D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project/Week_12_project.srcs/sources_1/new/seg_controller.v}}] -no_script -reset -force -quiet
+remove_files  {{D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project/Week_12_project.srcs/sources_1/new/bcd_dec.v} {D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project/Week_12_project.srcs/sources_1/new/clk_Ndiv.v} {D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project/Week_12_project.srcs/sources_1/new/seg_controller.v}}
+close [ open {D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project2/Week_12_project2.srcs/sources_1/new/adder.v} w ]
+add_files {{D:/OneDrive - 숭실대학교 - Soongsil University/2학년 1학기/디지털회로설계실험/12주차 보고서/Week_12_project2/Week_12_project2.srcs/sources_1/new/adder.v}}
+update_compile_order -fileset sources_1

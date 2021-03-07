@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Wed May 16 23:30:46 2018
+# Process ID: 10968
+# Current directory: D:/programming/vivado/Week_10_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15296 D:\programming\vivado\Week_10_project\Week_10_project.xpr
+# Log file: D:/programming/vivado/Week_10_project/vivado.log
+# Journal file: D:/programming/vivado/Week_10_project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/programming/vivado/Week_10_project/Week_10_project.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/user/Week_10_project' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [Project 1-230] Project 'Week_10_project.xpr' upgraded for this version of Vivado.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.1/data/ip'.
+open_project: Time (s): cpu = 00:00:15 ; elapsed = 00:00:08 . Memory (MB): peak = 802.320 ; gain = 69.887
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed May 16 23:37:53 2018...

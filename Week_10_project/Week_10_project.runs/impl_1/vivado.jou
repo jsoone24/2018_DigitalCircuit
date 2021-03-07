@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue May 15 10:28:24 2018
+# Process ID: 1628
+# Current directory: C:/Users/user/Week_10_project/Week_10_project.runs/impl_1
+# Command line: vivado.exe -log seg_display.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source seg_display.tcl -notrace
+# Log file: C:/Users/user/Week_10_project/Week_10_project.runs/impl_1/seg_display.vdi
+# Journal file: C:/Users/user/Week_10_project/Week_10_project.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source seg_display.tcl -notrace
